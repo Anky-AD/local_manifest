@@ -10,5 +10,6 @@
 
  <project path="kernel/xiaomi/phoenix" name="redcliff-op/android_kernel_xiaomi_phoenix.git" remote="github" revision="R" />
 
+ <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang.git" remote="github" revision="master" />
  
 </manifest>
