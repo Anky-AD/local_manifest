@@ -12,8 +12,6 @@
 
  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang.git" remote="github" revision="master" />
  
- <project path="hardware/xiaomi" name="bibindasb/hardware-xiaomi.git" remote="github" revision="lineage-18.1" />
- 
  <project path="device/xiaomi/extras" name="Lowxorx/android_device_xiaomi_extras.git" remote="github" revision="spark" />
 
 </manifest>
