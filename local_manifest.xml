@@ -14,6 +14,4 @@
  
  <project path="device/xiaomi/extras" name="Lowxorx/android_device_xiaomi_extras.git" remote="github" revision="spark" />
 
- <remove-project path="hardware_xiaomi_aidl_power-libperfmgr" />
-
 </manifest>
